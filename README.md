@@ -1,15 +1,12 @@
-![simplinnovation](https://4.bp.blogspot.com/-f7YxPyqHAzY/WJ6VnkvE0SI/AAAAAAAADTQ/0tDQPTrVrtMAFT-q-1-3ktUQT5Il9FGdQCLcB/s350/simpLINnovation1a.png)
+# Installation Guidelines
 
-# Favoriot Data Visualization Using Vue & Chart.js
-
-[![Video Lintang](https://img.youtube.com/vi/HPVOroKjDZE/0.jpg)](https://www.youtube.com/watch?v=HPVOroKjDZE)
 
 1. Make sure [__*Node.js*__](https://nodejs.org/en/) is installed on your PC, then simply download or clone this repo and install all dependencies:
 
     ```bash
-    $ git clone https://github.com/LintangWisesa/Vue-Chartjs-Favoriot-API.git
+    $ git clone https://github.com/ConnectBhawna/Chart_SampleCodeBase.git
 
-    $ cd Vue-Chartjs-Favoriot-API
+    $ cd Chart_SampleCodeBase
 
     $ npm install
     ```
@@ -52,17 +49,6 @@
 
     The app will be run automatically on http://localhost:8080/. Try to POST some data & GET the data back from Favoriot!
 
-    ![screenshot](./screenshot.png)
+    Enjoy the code~ 😍
 
-    Enjoy your code~ 😍
 
-#
-
-#### Lintang Wisesa :love_letter: _lintangwisesa@ymail.com_
-
-[Facebook](https://www.facebook.com/lintangbagus) | 
-[Twitter](https://twitter.com/Lintang_Wisesa) |
-[Google+](https://plus.google.com/u/0/+LintangWisesa1) |
-[Youtube](https://www.youtube.com/user/lintangbagus) | 
-:octocat: [GitHub](https://github.com/LintangWisesa) |
-[Hackster](https://www.hackster.io/lintangwisesa)
