@@ -1,4 +1,4 @@
-# Installation Guidelines
+## Installation Guidelines
 
 
 1. Make sure [__*Node.js*__](https://nodejs.org/en/) is installed on your PC, then simply download or clone this repo and install all dependencies:
@@ -39,7 +39,7 @@
         }
         ```
         
-#
+
 
 3. Run the project!
 
@@ -49,6 +49,12 @@
 
     The app will be run automatically on http://localhost:8080/. Try to POST some data & GET the data back from Favoriot!
 
-    Enjoy the code~ 😍
+
+
+## Screenshot of Web App
+![pika (1)](https://user-images.githubusercontent.com/81790585/228831104-35159d12-939b-4e28-910a-de6792c8e068.png)
+
+    
+Enjoy the code~ 😍
 
 
