@@ -51,8 +51,6 @@
 
 
 
-## Screenshot of Web App
-![pika (1)](https://user-images.githubusercontent.com/81790585/228831104-35159d12-939b-4e28-910a-de6792c8e068.png)
 
     
 Enjoy the code~ 😍
